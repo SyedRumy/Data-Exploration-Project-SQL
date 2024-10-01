@@ -3,9 +3,9 @@ Data Exploration Project: "Second-Hand Car Dealer"
 Description: This SQL-based project analyzes a dataset of second-hand cars, focusing on key metrics like availability by year, fuel type distributions, and car counts over various time periods. The project provides insights based on stakeholder requests, such as counts of cars by year, fuel type, and records from specific periods.
 
 Table of Contents:
-  Schema Creation
-  Queries Overview
-  Installation
+  Schema Creation,
+  Queries Overview,
+  Installation,
   Contributing
 
  
